@@ -32,3 +32,5 @@ app.listen(port, () => {
 }).on("error", (err) => {
     console.error("Server Error:", err); // Log server errors
 });
+
+// adding lines to check git config
